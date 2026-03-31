@@ -12,6 +12,9 @@ $I(\omega)\propto\frac{\gamma}{(\omega - \omega_0)^2 + \gamma^2}$
 - Demonstartes effect of dephasing
 - Visualizes multiple linewidths
 
+## Code
+See full implementation in [main.py](main.py)
+
 ## Output
 ![Spectral Plot](Figure_1.png)
 
